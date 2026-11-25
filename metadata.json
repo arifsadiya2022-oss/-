@@ -1,0 +1,6 @@
+{
+  "name": "Arif Game Booster",
+  "description": "Ultimate gaming utility suite with real-time local DSP voice changer, floating gaming sidebar, installed game launcher, and live device telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

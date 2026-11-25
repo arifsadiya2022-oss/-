@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Arif Game Booster</string>
+    <string name="brand_title">ARIF GAME BOOSTER</string>
+    <string name="brand_edition">ULTIMATE EDITION</string>
+    <string name="brand_tagline">Designed for Gamers.</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_launcher">Launcher</string>
+    <string name="nav_voice">Voice Studio</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about">About</string>
+    <string name="voice_service_channel_name">Voice Changer DSP</string>
+    <string name="voice_service_channel_desc">Shows when the local microphone DSP engine is active.</string>
+    <string name="sidebar_service_channel_name">Floating Gaming Sidebar</string>
+    <string name="sidebar_service_channel_desc">Keeps the floating ARIF gaming sidebar handle active.</string>
+    <string name="notification_action_stop_mic">Stop Mic</string>
+    <string name="notification_action_hide_sidebar">Hide Sidebar</string>
+</resources>
